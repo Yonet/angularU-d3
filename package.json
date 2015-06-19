@@ -1,21 +1,20 @@
 {
   "name": "reveal.js",
   "version": "3.0.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "description": "AngularU Conference 2015, Creating Angular2 - d3.js components talk slides",
+  "homepage": "http://bit.ly/AngularU-d3",
   "subdomain": "revealjs",
   "scripts": {
     "test": "grunt test",
     "start": ""
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Aysegul Yonet",
+    "email": "aysegul@anniecannons.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "https://github.com/Yonet/angularU-d3"
   },
   "engines": {
     "node": "~0.10.0"
@@ -42,7 +41,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/hakimel/reveal.js/blob/master/LICENSE"
+      "url": "https://github.com/Yonet/angularU-d3"
     }
   ]
 }
